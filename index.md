@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: Anita's hub
 ---
 
 ## Introduction
