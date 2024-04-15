@@ -3,16 +3,14 @@ layout: default
 title: Anita's hub
 ---
 
-## Introduction
-Hello, this is AnitaMF, welcome to my page!
+## Hello, this is AnitaMF, welcome to my page!
 
-## Background
 I am a PhD student at Prof. Roi Avraham [lab](https://www.weizmann.ac.il/dept/irb/avraham/avraham-lab-homepage) at the Weizmann Institute of Science 
 
-## Research Interests
+## My research 
 My research interests span gut microbiome interactions & enteric infections
 
 ![](/projectQuestion.PNG)
 
-## Let's Connect
-If my work interests you or if you have any questions, don't hesitate to reach out on [linkedin](https://www.linkedin.com/in/ana-mejia-fleisacher-546113290/).
+# Let's connect 
+Feel free to reach out if you're interested in what I do or if you have any questions![linkedin](https://www.linkedin.com/in/ana-mejia-fleisacher-546113290/).
