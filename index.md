@@ -7,7 +7,7 @@ title: Anita's hub
 ### About me 
 I am a PhD student at Prof. Roi Avraham [lab](https://www.weizmann.ac.il/dept/irb/avraham/avraham-lab-homepage) at the Weizmann Institute of Science 
 
-## My project 
+### My project 
 My research question spans gut Microbiome interactions & Enteric infections
 
 ![](/projectQuestion.PNG)
