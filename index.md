@@ -13,4 +13,4 @@ My research interests span gut microbiome interactions & enteric infections
 ![](/projectQuestion.PNG)
 
 # Let's connect 
-Feel free to reach out if you're interested in what I do or if you have any questions![linkedin](https://www.linkedin.com/in/ana-mejia-fleisacher-546113290/).
+Feel free to reach out if you're interested in what I do or if you have any questions - ![linkedin](https://www.linkedin.com/in/ana-mejia-fleisacher-546113290/).
