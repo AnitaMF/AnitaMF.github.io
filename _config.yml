@@ -9,3 +9,7 @@ remote_theme: vszhub/not-pure-poole
 
 include:
   - README.md  # If you want to make sure README.md is processed
+sass: 
+  style: compressed 
+include: 
+  - custom.css 
