@@ -7,10 +7,11 @@ title: Home Page
 Hello, this is AnitaMF, welcome to my page!
 
 ## Background
-I am a PhD student at Prof. Roi Avraham [lab](https://www.weizmann.ac.il/dept/irb/avraham/avraham-lab-homepage) in the Weizmann Institute of Science 
+I am a PhD student at Prof. Roi Avraham [lab](https://www.weizmann.ac.il/dept/irb/avraham/avraham-lab-homepage) at the Weizmann Institute of Science 
 
 ## Research Interests
 My research interests span gut microbiome interactions & enteric infections
+
 ![](/projectQuestion.PNG)
 
 ## Let's Connect
