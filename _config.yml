@@ -1,0 +1,11 @@
+title: "Anita's github"
+description: "Inside the Microbiome"
+cover_image: 'https://images.newscientist.com/wp-content/uploads/2023/10/02153032/SEI_174308679.jpg?width=1200'
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
+
+include:
+  - README.md  # If you want to make sure README.md is processed
