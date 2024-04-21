@@ -21,8 +21,8 @@ Feel free to reach out if you're interested in what I do or if you have any ques
 [Ekaterina Zhigileva](https://katyazhi.github.io/) - specialist in chemistry 
 
 ## My repositories 
-### [personal work](/https://github.com/AnitaMF/AnitaMF.github.io)
-The course [website](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file) for which I am a [repository](/https://github.com/AnitaMF/python_assignments.github.io/tree/main/Assignments) where you can check all the assignments solutions 
+### [personal work](https://github.com/AnitaMF/AnitaMF.github.io/)
+I have a re repository with all the [assignments solutions](/https://github.com/AnitaMF/python_assignments.github.io/tree/main/Assignments) for this [python course](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file). If you are interested in taking this course, you can check the curriculum of the course [here]((https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473) or check the [videos](https://www.youtube.com/@CodeMaven) of this course and more 
 
 
 ## In my freetime I enjoy nature :) 
