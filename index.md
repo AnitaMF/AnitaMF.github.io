@@ -20,5 +20,9 @@ Feel free to reach out if you're interested in what I do or if you have any ques
 
 [Ekaterina Zhigileva](https://katyazhi.github.io/) - specialist in chemistry 
 
+## My repositories 
+### [personal work](/https://github.com/AnitaMF/AnitaMF.github.io)
+### [python course assignments](/https://github.com/AnitaMF/python_assignments.github.io)
+
 ## In my freetime I enjoy nature :) 
 ![](/MY_PIC.jpeg)
