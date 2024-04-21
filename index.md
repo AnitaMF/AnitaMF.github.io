@@ -17,7 +17,8 @@ Feel free to reach out if you're interested in what I do or if you have any ques
 
 ## Connect with other Weizmann students 
 [Avital Rosner](https://avitalrosner.github.io/) - specialist in microscopy 
+
 [Ekaterina Zhigileva](https://katyazhi.github.io/) - specialist in chemistry 
 
 ## In my freetime I enjoy nature :) 
-![](/mypicture.PNG)
+![](WhatsApp Image 2024-04-15 at 12.09.03 (1).jpeg)
