@@ -22,7 +22,7 @@ Feel free to reach out if you're interested in what I do or if you have any ques
 
 ## My repositories 
 ### All code related to my PhD work - [here](https://github.com/AnitaMF/AnitaMF.github.io/)
-### All [assignments solutions](/https://github.com/AnitaMF/python_assignments.github.io/tree/main/Assignments) for this [python course](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file/)- If you are interested in taking this course, check the curriculum [here](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473/) or check the course material and other [videos](https://www.youtube.com/@CodeMaven) 
+### All [assignments solutions]([/https://github.com/AnitaMF/python_assignments.github.io/tree/main/Assignments](https://github.com/AnitaMF/python_assignments.github.io)) for this [python course](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file/)- If you are interested in taking this course, check the curriculum [here](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473/) or check the course material and other [videos](https://www.youtube.com/@CodeMaven) 
 
 
 ## In my freetime I enjoy nature :) 
