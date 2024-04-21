@@ -22,7 +22,8 @@ Feel free to reach out if you're interested in what I do or if you have any ques
 
 ## My repositories 
 ### [personal work](/https://github.com/AnitaMF/AnitaMF.github.io)
-### [python course assignments](/https://github.com/AnitaMF/python_assignments.github.io)
+The course [website](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file) for which I am a [repository](/https://github.com/AnitaMF/python_assignments.github.io/tree/main/Assignments) where you can check all the assignments solutions 
+
 
 ## In my freetime I enjoy nature :) 
 ![](/MY_PIC.jpeg)
