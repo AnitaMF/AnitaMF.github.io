@@ -32,5 +32,6 @@ This is a list with my favorite nature places:
 - [Dolomites](https://www.britannica.com/place/Dolomites) in Italy
 - [Semuc champey](https://www.istockphoto.com/photo/semuc-champey-natural-swimming-pools-guatemala-gm516411639-48288012) in Guatemala
 - [Clearwater](https://thetravelbible.com/destinations-with-the-clearest-blue-water/) in Florida
+  
 This in me in Ramat Nadiv in Israel  
 ![](/MY_PIC.jpeg)
