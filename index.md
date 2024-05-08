@@ -27,4 +27,10 @@ All [assignments solutions](https://github.com/AnitaMF/python_assignments.github
 
 
 ## In my freetime I enjoy nature :) 
+This is a list with my favorite nature places: 
+- [Tayrona national park](https://theorangebackpack.nl/en/colombia_en/tayrona-national-park-map/) in Colombia 
+- [Dolomites](https://www.britannica.com/place/Dolomites) in Italy
+- [Semuc champey](https://www.istockphoto.com/photo/semuc-champey-natural-swimming-pools-guatemala-gm516411639-48288012) in Guatemala
+- [Clearwater](https://thetravelbible.com/destinations-with-the-clearest-blue-water/) in Florida
+This in me in Ramat Nadiv in Israel  
 ![](/MY_PIC.jpeg)
